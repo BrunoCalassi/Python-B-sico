@@ -1,0 +1,1 @@
+https://pypi.org/ para pegar alguns pacotes de extensão feitas pela comunidade
